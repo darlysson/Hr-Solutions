@@ -1,0 +1,21 @@
+
+<svg width="36px" height="34px" viewBox="0 0 36 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="13.693 13.041 0.037 13.041 11.085 21.068 6.865 34.054 17.913 26.028 28.96 34.054 24.74 21.068 35.788 13.041 22.132 13.041 17.913 0.054"></polygon>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HR_option_5a" transform="translate(-126.000000, -1042.000000)">
+            <g id="Group-22" transform="translate(43.000000, 1040.000000)">
+                <g id="Group-7" transform="translate(83.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-6"></g>
+                    <polygon id="Fill-5" fill="#95C0FF" mask="url(#mask-2)" points="-4.963 39.054 40.787 39.054 40.787 -4.946 -4.963 -4.946"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

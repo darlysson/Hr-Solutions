@@ -1,0 +1,21 @@
+
+<svg width="24px" height="34px" viewBox="0 0 24 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.301,0.056 C5.956,0.056 0.845,5.52 0.776,12.004 L0.775,12.004 C0.692,19.853 12.08,34.055 12.08,34.055 C14.456,30.428 23.747,18.285 23.81,12.248 C23.88,5.723 18.821,0.123 12.42,0.056 C12.38,0.056 12.341,0.056 12.301,0.056 Z M8.011,12.829 C8.036,10.468 9.97,8.575 12.329,8.601 C14.69,8.626 16.583,10.559 16.558,12.918 C16.533,15.264 14.626,17.146 12.287,17.146 C12.271,17.146 12.255,17.146 12.239,17.146 C9.879,17.121 7.987,15.189 8.011,12.829 Z" id="path-1"></path>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HR_option_5a" transform="translate(-179.000000, -1043.000000)">
+            <g id="Group-22" transform="translate(43.000000, 1040.000000)">
+                <g id="Group-21" transform="translate(136.000000, 3.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-20"></g>
+                    <polygon id="Fill-19" fill="#6BA4FF" mask="url(#mask-2)" points="-4.226 39.055 28.811 39.055 28.811 -4.945 -4.226 -4.945"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
